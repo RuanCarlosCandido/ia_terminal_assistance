@@ -1,0 +1,14 @@
+{
+    "default": "1",
+    "models": {
+        "1": {
+            "name": "Qwen2.5-Coder-32B-Instruct",
+            "url": "https://api-inference.huggingface.co/models/Qwen/Qwen2.5-Coder-32B-Instruct"
+        },
+        "2": {
+            "name": "Mixtral-8x7B",
+            "url": "https://api-inference.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1"
+        }
+    }
+}
+
